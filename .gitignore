@@ -1,0 +1,5 @@
+cmake-build-debug/
+test_log.txt
+.idea/
+build/
+output/
